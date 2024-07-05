@@ -2,7 +2,7 @@
 
 module hadley_resource 'hadley_source_bicep' = {
     name: 'hadley_resource'
-    hadley_params 
+    hadley_params
 }
 
 
